@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage : {
+        bckgrnd : "url('/shiva.png')",
+        bgoverlay : "radial-gradient(circle, rgba(0,0,0,0) 60%, rgba(0,0,0,0.5) 100%"
+      },
     },
   },
   plugins: [],
